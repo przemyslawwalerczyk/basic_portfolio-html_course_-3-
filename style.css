@@ -1,0 +1,177 @@
+body {
+    background-color: #303030;
+    color: white;
+    font-family: Lato;
+    font-size: 20px;
+}
+
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle {
+    width: 960px;
+    margin: 20px;
+    text-align: center;
+}
+
+.square {
+    width: 50%;
+    float: left;
+}
+
+#logo {
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 45px;
+    width: 600px;
+    text-align: left;
+}
+
+#zegar {
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 45px;
+    text-align: left;
+}
+
+.tile1 {
+    float: left;
+    width: 230px;
+    height: 142px;
+    margin: 10px;
+    background-color: #3095d3;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tile1:hover {
+    background-color: #2084c2;
+}
+
+.tile2 {
+    float: left;
+    width: 230px;
+    height: 142px;
+    margin: 10px;
+    background-color: #666666;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tile2:hover {
+    background-color: #555555;
+}
+
+.tile3 {
+    float: left;
+    width: 230px;
+    height: 142px;
+    margin: 10px;
+    background-color: #93c748;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tile3:hover {
+    background-color: #82b637;
+}
+
+.tile4 {
+    width: 420px;
+    height: 82px;
+    margin: 10px;
+    background-color: #ee5a32;
+    text-align: center;
+    font-size: 26px;
+    padding: 30px;
+    text-align: center;
+    line-height: 150%;
+    border-radius: 10px;
+}
+
+.tile5 {
+    width: 420px;
+    height: 244px;
+    margin: 10px;
+    background-color: #666666;
+    text-align: justify;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+
+.yt {
+    float: left;
+    width: 105px;
+    height: 142px;
+    margin: 10px;
+    background-color: #d94348;
+    border-radius: 10px;
+}
+
+.yt:hover {
+    background-color: #c83237;
+}
+
+.fb {
+    float: left;
+    width: 105px;
+    height: 142px;
+    margin: 10px;
+    background-color: #4668b3;
+    border-radius: 10px;
+}
+
+.fb:hover {
+    background-color: #3557a2;
+}
+
+.gplus {
+    float: left;
+    width: 105px;
+    height: 142px;
+    margin: 10px;
+    background-color: #d95333;
+    border-radius: 10px;
+}
+
+.gplus:hover {
+    background-color: #c84222;
+}
+
+.tw {
+    float: left;
+    width: 105px;
+    height: 142px;
+    margin: 10px;
+    background-color: #3095d3;
+    border-radius: 10px;
+}
+
+.tw:hover {
+    background-color: #2084c2;
+}
+
+a.tilelink {
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+
+a.tilelinkhtml5 {
+    color: white;
+    text-decoration: none;
+}
+
+a.sociallink {
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 105px;
+    height: 142px;
+}
